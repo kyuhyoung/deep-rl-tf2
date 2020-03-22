@@ -6,6 +6,7 @@ This repository contains code and performance comparison metrics that implement 
 | :---------: | :--------------------------------------------: |
 | CartPole-v1 | ![discrete](./assets/discrete_reward_plot.png) |
 
+
 ## Algorithms
 
 |    Name    |     Method      |              Discrete Action               |              Continuous Action              |
